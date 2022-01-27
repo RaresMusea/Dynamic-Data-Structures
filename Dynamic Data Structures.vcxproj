@@ -141,14 +141,19 @@
   <ItemGroup>
     <ClInclude Include="Array.h" />
     <ClInclude Include="AUXILIAR.h" />
+    <ClInclude Include="BinarySearchTree.h" />
+    <ClInclude Include="BinarySearchTreeWithParentPointer.h" />
+    <ClInclude Include="BinaryTree.h" />
     <ClInclude Include="CircularLinkedList.h" />
     <ClInclude Include="Container.h" />
+    <ClInclude Include="Dictionary.h" />
     <ClInclude Include="DoubleLinkedList.h" />
     <ClInclude Include="Exceptions.h" />
     <ClInclude Include="LinkedList.h" />
     <ClInclude Include="LinkedListPolinom.h" />
     <ClInclude Include="Polinom.h" />
     <ClInclude Include="Queue.h" />
+    <ClInclude Include="QueueArray.h" />
     <ClInclude Include="SortedLinkedList.h" />
     <ClInclude Include="Stack.h" />
     <ClInclude Include="Term.h" />
